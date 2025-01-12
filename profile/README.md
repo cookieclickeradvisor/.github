@@ -9,6 +9,7 @@ Your ultimate companion for optimizing Cookie Clicker gameplay! 🚀 Whether you
 - [Features](#features)
 - [Why Choose Us?](#why-choose-us)
 - [Who Is It For?](#who-is-it-for)
+- [Links](#links)
 - [License](#license)
 
 ---
@@ -36,6 +37,13 @@ Your ultimate companion for optimizing Cookie Clicker gameplay! 🚀 Whether you
 - 🍪 **Casual Players**: Looking for a helping hand to enhance your game.
 - 🔮 **Strategy Enthusiasts**: Dive into analytics and optimization tools to perfect your gameplay.
 - 🌟 **Hardcore Clickers**: Max out your cookie production and achieve your in-game goals faster.
+
+---
+
+## Links 🌐
+
+- 🌟 **Main Website**: [Cookie Clicker Advisor V2](https://cookieclickeradvisor.github.io/)
+- 🔗 **Chrome Extension**: [Install from Chrome Web Store](https://chromewebstore.google.com/detail/cookie-clicker-advisor-v2/kpmaikenopfbacemeecibonckblokjjl)
 
 ---
 
